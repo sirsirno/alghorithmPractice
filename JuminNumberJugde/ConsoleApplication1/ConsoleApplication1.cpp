@@ -1,5 +1,5 @@
 ﻿// ConsoleApplication1.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
-//
+// 20208 서선호
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 
@@ -135,6 +135,19 @@ int main()
             default: cout << "전라남도 지역 출신입니다.\n"; break;
         }
         break;
+    case '9':
+            switch (value[8])
+            {
+            case '1':cout << "비정상지역입니다.\n"; break;
+            case '2':cout << "비정상지역입니다.\n"; break;
+            case '3':cout << "비정상지역입니다.\n"; break;
+            case '4':cout << "비정상지역입니다.\n"; break;
+            case '5':cout << "비정상지역입니다.\n"; break;
+            case '6':cout << "비정상지역입니다.\n"; break;
+            case '7':cout << "비정상지역입니다.\n"; break;
+            case '8':cout << "비정상지역입니다.\n"; break;
+            case '9':cout << "비정상지역입니다..\n"; break;
+            }
     default: cout << "경상도 지역 출신입니다.\n"; break;
     }
     return 0;
