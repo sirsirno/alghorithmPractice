@@ -1,3 +1,4 @@
+![모바일](https://user-images.githubusercontent.com/64309464/114124523-9f4bf500-992f-11eb-851a-acbe8653b7e7.png)
 # alghorithmPractice
         자료구조 알고리즘을 위해 나의 모든것을 -서선호-
 
