@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿//
+// 20208 서선호
+#include <iostream>
 #include <string>
 #include <stack>
 #include <sstream>
@@ -15,7 +17,7 @@ stack<oper> op; // 연산자 스택
 
 void calc() {
     int a, b, result;
-    
+
     b = num.top();
     num.pop();
     a = num.top();
@@ -39,7 +41,7 @@ int main() {
     string input; //= "15 + 32 * ( 1 - 8 ) / 2"; // -97
     getline(cin, input);
     int prior = 0; // 연산자 우선순위로 쓸 변수 
-   
+
     stringstream ss(input);
     string tok;
     while (ss >> tok) {
@@ -53,7 +55,7 @@ int main() {
             op.pop();
         }
         else if (tok == "*" || tok == "/" || tok == "+" || tok == "-") {
-           // 연산자 우선순위
+            // 연산자 우선순위
             if (tok == "*")
                 prior = 2;
             else if (tok == "/")
