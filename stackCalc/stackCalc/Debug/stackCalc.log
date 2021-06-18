@@ -1,2 +1,3 @@
 ﻿  stackCalc.cpp
+C:\Users\ROG\Documents\alghorithmPractice\stackCalc\stackCalc\stackCalc.cpp(49,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   stackCalc.vcxproj -> C:\Users\ROG\Documents\alghorithmPractice\stackCalc\Debug\stackCalc.exe
