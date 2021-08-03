@@ -1,0 +1,6 @@
+C:\Users\ROG\source\repos\algorithm_summer_09\algorithm_summer_09\bin\Debug\algorithm_summer_09.exe.config
+C:\Users\ROG\source\repos\algorithm_summer_09\algorithm_summer_09\bin\Debug\algorithm_summer_09.exe
+C:\Users\ROG\source\repos\algorithm_summer_09\algorithm_summer_09\bin\Debug\algorithm_summer_09.pdb
+C:\Users\ROG\source\repos\algorithm_summer_09\algorithm_summer_09\obj\Debug\algorithm_summer_09.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\algorithm_summer_09\algorithm_summer_09\obj\Debug\algorithm_summer_09.exe
+C:\Users\ROG\source\repos\algorithm_summer_09\algorithm_summer_09\obj\Debug\algorithm_summer_09.pdb
